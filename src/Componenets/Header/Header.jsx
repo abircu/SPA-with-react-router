@@ -21,6 +21,9 @@ const Header = () => {
         <Link className="pl-6" to="/users">
           Users
         </Link>
+        <Link className="pl-6" to="/posts">
+          Posts
+        </Link>
       </nav>
     </div>
   );
