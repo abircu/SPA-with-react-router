@@ -18,6 +18,9 @@ const Header = () => {
         <Link className="pl-6" to="/service">
           Service
         </Link>
+        <Link className="pl-6" to="/users">
+          Users
+        </Link>
       </nav>
     </div>
   );
